@@ -42,12 +42,6 @@ SE2022-Nhom-8.3
 
 Đề bài: Tìm hiểu lập trình React-Native, xây dựng ứng dụng thương mại điện tử trong lĩnh vực nội thất
 
-Các thành viên gồm: <br>
--Vi Văn Đô <br>
--Nguyễn Trường An <br>
--Nguyễn Văn An <br>
--Đỗ Minh Hiếu
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Các tính năng cơ bản
